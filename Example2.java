@@ -21,6 +21,7 @@ public class Example2 {
 		
 		Example2 obj = new Example2();
 		Example2 obj2 = new Example2(100);
+		Example3 obj3 = new Example(500);
 		
 		System.out.println("var is: " + obj.getValue());
 		System.out.println("var is: " + obj2.getValue());
